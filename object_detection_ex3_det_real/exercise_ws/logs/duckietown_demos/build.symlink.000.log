@@ -1,0 +1,3 @@
+Symlinking /code/exercise_ws/devel/lib/pkgconfig/duckietown_demos.pc
+Symlinking /code/exercise_ws/devel/share/duckietown_demos/cmake/duckietown_demosConfig.cmake
+Symlinking /code/exercise_ws/devel/share/duckietown_demos/cmake/duckietown_demosConfig-version.cmake

@@ -1,0 +1,5 @@
+*/dataset/
+*/yolo_dataset/
+*/yolo_dataset.zip
+object_detection_ex3_seg_sim/assets/setup/challenges/challenge-evaluation-output/episodes/scenarios/log.gs2.cbor
+object_detection_ex3_det_real/assets/setup/challenges/challenge-evaluation-output/episodes/scenarios/log.gs2.cbor

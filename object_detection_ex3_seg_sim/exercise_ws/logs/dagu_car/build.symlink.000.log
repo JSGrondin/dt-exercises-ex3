@@ -1,0 +1,4 @@
+Symlinking /code/exercise_ws/devel/lib/pkgconfig/dagu_car.pc
+Symlinking /code/exercise_ws/devel/lib/python3/dist-packages/dagu_car/__init__.py
+Symlinking /code/exercise_ws/devel/share/dagu_car/cmake/dagu_carConfig.cmake
+Symlinking /code/exercise_ws/devel/share/dagu_car/cmake/dagu_carConfig-version.cmake

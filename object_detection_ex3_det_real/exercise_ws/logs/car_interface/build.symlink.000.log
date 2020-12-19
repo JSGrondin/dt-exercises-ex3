@@ -1,0 +1,3 @@
+Symlinking /code/exercise_ws/devel/lib/pkgconfig/car_interface.pc
+Symlinking /code/exercise_ws/devel/share/car_interface/cmake/car_interfaceConfig.cmake
+Symlinking /code/exercise_ws/devel/share/car_interface/cmake/car_interfaceConfig-version.cmake

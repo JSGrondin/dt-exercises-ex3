@@ -1,0 +1,5 @@
+duckietown_demos
+/code/exercise_ws/devel/.private/duckietown_demos/cmake.lock /code/exercise_ws/devel/./cmake.lock
+/code/exercise_ws/devel/.private/duckietown_demos/lib/pkgconfig/duckietown_demos.pc /code/exercise_ws/devel/lib/pkgconfig/duckietown_demos.pc
+/code/exercise_ws/devel/.private/duckietown_demos/share/duckietown_demos/cmake/duckietown_demosConfig.cmake /code/exercise_ws/devel/share/duckietown_demos/cmake/duckietown_demosConfig.cmake
+/code/exercise_ws/devel/.private/duckietown_demos/share/duckietown_demos/cmake/duckietown_demosConfig-version.cmake /code/exercise_ws/devel/share/duckietown_demos/cmake/duckietown_demosConfig-version.cmake

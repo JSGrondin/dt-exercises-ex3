@@ -1,0 +1,4 @@
+jupyterlab
+matplotlib
+virtualenv
+debugpy>=1.2.0

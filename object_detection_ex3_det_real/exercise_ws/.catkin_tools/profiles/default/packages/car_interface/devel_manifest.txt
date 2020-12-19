@@ -1,0 +1,5 @@
+car_interface
+/code/exercise_ws/devel/.private/car_interface/cmake.lock /code/exercise_ws/devel/./cmake.lock
+/code/exercise_ws/devel/.private/car_interface/lib/pkgconfig/car_interface.pc /code/exercise_ws/devel/lib/pkgconfig/car_interface.pc
+/code/exercise_ws/devel/.private/car_interface/share/car_interface/cmake/car_interfaceConfig.cmake /code/exercise_ws/devel/share/car_interface/cmake/car_interfaceConfig.cmake
+/code/exercise_ws/devel/.private/car_interface/share/car_interface/cmake/car_interfaceConfig-version.cmake /code/exercise_ws/devel/share/car_interface/cmake/car_interfaceConfig-version.cmake

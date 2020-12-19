@@ -1,0 +1,19 @@
+status: error
+msg: "InvalidEvaluator:\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.8/site-packages/duckietown_experiment_manager/code.py\"\
+  , line 319, in main\n    get_banner_bottom(banner_bottom_fn)\n  File \"/usr/local/lib/python3.8/site-packages/duckietown_experiment_manager/code.py\"\
+  , line 707, in get_banner_bottom\n    submitter_name = os.environ[ENV_SUBMITTER_NAME]\n\
+  \  File \"/usr/local/lib/python3.8/os.py\", line 675, in __getitem__\n    raise\
+  \ KeyError(key) from None\nKeyError: 'submitter_name'\n\nThe above exception was\
+  \ the direct cause of the following exception:\n\nTraceback (most recent call last):\n\
+  \  File \"/usr/local/lib/python3.8/site-packages/duckietown_challenges/cie_concrete.py\"\
+  , line 681, in scoring_context\n    yield cie\n  File \"/usr/local/lib/python3.8/site-packages/duckietown_experiment_manager/experiment_manager.py\"\
+  , line 68, in go\n    wrap(cie)\n  File \"/usr/local/lib/python3.8/site-packages/duckietown_experiment_manager/experiment_manager.py\"\
+  , line 34, in wrap\n    asyncio.run(main(cie, logdir, attempts), debug=True)\n \
+  \ File \"/usr/local/lib/python3.8/asyncio/runners.py\", line 44, in run\n    return\
+  \ loop.run_until_complete(main)\n  File \"/usr/local/lib/python3.8/asyncio/base_events.py\"\
+  , line 616, in run_until_complete\n    return future.result()\n  File \"/usr/local/lib/python3.8/site-packages/duckietown_experiment_manager/code.py\"\
+  , line 383, in main\n    raise dc.InvalidEvaluator(msg) from e\nduckietown_challenges.exceptions.InvalidEvaluator:\
+  \ Anomalous error while running episodes:\n"
+scores: {}
+stats: {}
+ipfs_hashes: {}

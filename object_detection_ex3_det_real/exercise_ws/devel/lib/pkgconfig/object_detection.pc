@@ -1,0 +1,1 @@
+/code/exercise_ws/devel/.private/object_detection/lib/pkgconfig/object_detection.pc
